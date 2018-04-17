@@ -1,0 +1,17 @@
+{
+  "name": "ptt-sex-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/request": "^2.47.0",
+    "crawler": "^1.1.2",
+    "ts-node": "^5.0.1",
+    "typescript": "^2.8.1"
+  }
+}
